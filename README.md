@@ -13,14 +13,9 @@ You can reach me at : christopher.gbezo@gmail.com
 
 `git clone https://github.com/cgbezo/projet_01_speed_dating`
 
-```python 
-git clone https://github.com/cgbezo/projet_01_speed_dating
-
-```
-
 #### Project #2 : [Plan your trip with Kayak](https://github.com/cgbezo/projet_02_kayak)
 
-#### Project #3 : Supervised Machine Learning *"Walmart"*
+#### [Project #3 : Supervised Machine Learning *"Walmart"*](https://github.com/cgbezo/projet03_walmart)
 
 #### Project #4 : Conversion rate Challenge
 
