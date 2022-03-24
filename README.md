@@ -9,11 +9,13 @@ You can reach me at : christopher.gbezo@gmail.com
 
 # Jedha
 
-#### Project #1 : [Project speed dating](https://github.com/cgbezo/projet_01_speed_dating)
+#### [Project #1 : Project speed dating](https://github.com/cgbezo/projet_01_speed_dating)
 
 `git clone https://github.com/cgbezo/projet_01_speed_dating`
 
-#### Project #2 : [Plan your trip with Kayak](https://github.com/cgbezo/projet_02_kayak)
+#### [Project #2 : Plan your trip with Kayak](https://github.com/cgbezo/projet_02_kayak)
+
+`git clone https://github.com/cgbezo/projet_02_kayak`
 
 #### [Project #3 : Supervised Machine Learning *"Walmart"*](https://github.com/cgbezo/projet03_walmart)
 
