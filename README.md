@@ -19,25 +19,21 @@ You can reach me at : christopher.gbezo@gmail.com
 
 #### [Project #3 : Supervised Machine Learning *"Walmart"*](https://github.com/cgbezo/projet03_walmart)
 
+`git clone https://github.com/cgbezo/projet03_walmart`
+
 #### [Project #4 : Conversion rate Challenge](https://github.com/cgbezo/projet04_Conversion-rate-challenge)
 
+`git clone https://github.com/cgbezo/projet04_Conversion-rate-challenge`
+
 #### [Project #5 : Uber Pickups](https://github.com/cgbezo/projet05_Uber-Pickups)
+
+`git clone https://github.com/cgbezo/projet05_Uber-Pickups`
 
 #### Project #6 : Disaster Tweets
 
 #### Project #7 : Deployment
 
 #### Project #8 : Demoday
-
-`docker run -it -v "$(pwd):/home/app" -e PORT=80 -p 4000:80 jedha/streamlit-sample-app`
-
-
-```python 
-import pandas as pd
-
-```
-
-
 
 # Personal projects
 To be continued... 🚀
