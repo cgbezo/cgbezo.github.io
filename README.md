@@ -19,9 +19,9 @@ You can reach me at : christopher.gbezo@gmail.com
 
 #### [Project #3 : Supervised Machine Learning *"Walmart"*](https://github.com/cgbezo/projet03_walmart)
 
-#### Project #4 : Conversion rate Challenge
+#### [Project #4 : Conversion rate Challenge](https://github.com/cgbezo/projet04_Conversion-rate-challenge)
 
-#### Project #5 : Uber Pickups
+#### [Project #5 : Uber Pickups](https://github.com/cgbezo/projet05_Uber-Pickups)
 
 #### Project #6 : Disaster Tweets
 
