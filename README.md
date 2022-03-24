@@ -11,7 +11,14 @@ You can reach me at : christopher.gbezo@gmail.com
 
 #### Project #1 : [Project speed dating](https://github.com/cgbezo/projet_01_speed_dating)
 
-#### Project #2 : Plan your trip with Kayak
+`git clone https://github.com/cgbezo/projet_01_speed_dating`
+
+```python 
+git clone https://github.com/cgbezo/projet_01_speed_dating
+
+```
+
+#### Project #2 : [Plan your trip with Kayak](https://github.com/cgbezo/projet_02_kayak)
 
 #### Project #3 : Supervised Machine Learning *"Walmart"*
 
@@ -25,7 +32,7 @@ You can reach me at : christopher.gbezo@gmail.com
 
 #### Project #8 : Demoday
 
-
+`docker run -it -v "$(pwd):/home/app" -e PORT=80 -p 4000:80 jedha/streamlit-sample-app`
 
 
 ```python 
